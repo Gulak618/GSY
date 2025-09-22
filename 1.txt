@@ -1,1 +1,2 @@
-new row in 1.txt file
+This is a new line.
+This is another line for stash example.
